@@ -16,4 +16,4 @@ Added DockerHub credentials (DOCKERHUB_USERNAME, DOCKERHUB_TOKEN) as GitHub Secr
 Each push to the main branch triggers a workflow that builds and pushes the latest image to Dockerhub
 
 5.Deployed on EC2:
-Verified the app running at http://<EC2-Public-IP>:3000.
+Verified the app running at http://ec2-Public-IP:3000.
